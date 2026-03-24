@@ -107,9 +107,9 @@ $ cat sumit.json
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitSonawane2711&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitSonawane2711&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
 
 </div>
 
@@ -134,6 +134,6 @@ $ cat sumit.json
 > Response time: < 24 hrs
 ```
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sumit.sumit)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SumitSonawane2711.SumitSonawane2711)
 
 </div>
